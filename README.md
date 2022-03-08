@@ -5,7 +5,7 @@
 
 ## Scrrenshot:
 
-<img src="https://github.com/scorpion77777/Blog/blob/main/assets/screen.png" alt="Blog screenshot"></src>
+<img src="https://github.com/scorpion77777/Online-Offline-Budget-Trackers/blob/main/assets/screen.png" alt="Blog screenshot"></src>
 
 ## Summary:
 
