@@ -56,9 +56,9 @@ function checkDatabase() {
   };
 }
 
-request.onsuccess = function (e) {
+request.onsuccess = function (event) {
   console.log("success");
-  db = e.target.result;
+  db = event.target.result;
 
   if (navigator.onLine) {
     console.log("Backend ONLINE!");
